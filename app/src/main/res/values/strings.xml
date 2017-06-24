@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ropa para Damas</string>
+    <string name="dd">Datos del diseñador</string>
+    <string name="nom">Nombre: Cruz Caceres Lizeth</string>
+    <string name="email">E-mail:</string>
+    <string name="email1">  cruz.c.caceres@gmail.com</string>
+    <string name="d">Descripcion</string>
+    <string name="des">Es una tienda de prendas de vestir donde hay toda una coleccion de prendas para damas, como :
+zapatos, blusas, sombreros,etc.</string>
+    <string name="to">Te ofrecemos:</string>
+    <string name="t11">Tienda de Prendas de vestir </string>
+    <string name="t12">para Damas</string>
+    <string name="d1">Donde encontraras diversas prendas de vestir para damas como calzados blusas, carteras, pantalomes, etc.
+De forma efectiva. encuentre sus prefencias y no se olvide de seguirnos.</string>
+    <string name="sig">siguiente</string>
+    <string name="url">www.amichi.es</string>
+
+    <string name="tvt">titulo</string>
+    <string name="tvc">contenido</string>
+
+
+
+
+    <string name="b1">COD: 212342                PRECIO: 75bs"</string>
+    <string name="b1_1">"Blusa comoda media manga, cuello abierto y cintura ajustada</string>
+
+    <string name="b2">COD: 42323                PRECIO: 45bs"</string>
+    <string name="b2_2">"Blusa de otoño, delgada y cuello redondo, mas pliegues</string>
+
+    <string name="b3">COD: 12123                PRECIO: 120bs"</string>
+    <string name="b3_3">"Manga larga comoda, cuello redondo y plizado por delante</string>
+
+    <string name="b4">COD: 456456                PRECIO: 90bs"</string>
+    <string name="b4_4">"De gala sin manga, se ajusta facilmente al cuerpo</string>
+
+    <string name="b5">COD: 56756                PRECIO: 75bs"</string>
+    <string name="b5_5">"Solera sin manga, muy comodo</string>
+
+    <string name="b6">COD: 96754654                PRECIO: 120bs"</string>
+    <string name="b6_6">"Blusa escotada, sin manga cuello redondo</string>
+
+    <string name="b7">COD: 35432                PRECIO: 95bs"</string>
+    <string name="b7_7">"Blusa con ombrera, manga larga y ligera</string>
+
+    <string name="b8">COD: 12123223                PRECIO: 140bs"</string>
+    <string name="b8_8">"Descotado con encaje en las mangas y la parte del cuello</string>
+
+    <string name="b9">COD: 56776                PRECIO: 98bs"</string>
+    <string name="b9_9">"Blusa ligera, ajustado a la cintura, cuello redondo</string>
+
+    <string name="b10">COD: 43543                PRECIO: 72bs"</string>
+    <string name="b10_10">"De tipo licrado, sin manga, con pechera</string>
+
+
+    <string name="s1">COD: 48656                PRECIO: 50bs"</string>
+    <string name="s1_1">"Se trata de un sombrero redondo con pequeña vicera</string>
+
+    <string name="s2">COD: 67846                PRECIO: 55bs"</string>
+    <string name="s2_2">"Es un sombrero con vicera pequeña</string>
+
+    <string name="s3">COD: 24678                PRECIO: 40bs"</string>
+    <string name="s3_3">"Se trata de un sombrero de ala ancha moldeable que cae a la altura de los ojos</string>
+
+    <string name="s4">"COD: 44565                PRECIO: 87bs</string>
+    <string name="s4_4">"Es un sombrero de ala moldeable y de material tela</string>
+
+    <string name="s5">COD: 35243                PRECIO: 42bs"</string>
+    <string name="s5_5">"Material de tela degada y de ala ancha</string>
+
+    <string name="s6">COD: 09056                PRECIO: 58bs"</string>
+    <string name="s6_6">"Un modelo de fieltro con ala amplia y de estilo masculino</string>
+
+    <string name="s7">COD: 22454                PRECIO: 66bs"</string>
+    <string name="s7_7">"Sombrero de pequeña vicera y de material de cola de rata</string>
+
+    <string name="s8">COD: 66556                PRECIO: 51bs"</string>
+    <string name="s8_8">"Es un sombrero de paja, rigido y ala corta </string>
+
+    <string name="s9">COD: 76777                PRECIO: 72bs"</string>
+    <string name="s9_9">"Es una material de tela redondo y de ala moldeable</string>
+
+    <string name="s10">COD: 43543                PRECIO: 50bs"</string>
+    <string name="s10_10">"Es un sombrero con vicera grande y redondo</string>
+
+
+    <string name="f1">COD: 98656                PRECIO: 70bs</string>
+    <string name="f1_1">Falda fruncida, con cinta en la cintura</string>
+
+    <string name="f2">COD: 67846                PRECIO: 85bs</string>
+    <string name="f2_2">Falda ancha con vuelo, de tono rosado</string>
+
+    <string name="f3">COD: 24678                PRECIO: 48bs</string>
+    <string name="f3_3">Es una falda tubo de color plomo con botones por delante</string>
+
+    <string name="f4">COD: 44565                PRECIO: 75bs</string>
+    <string name="f4_4">Es una falda en forma V de color negro con botones</string>
+
+    <string name="f5">COD: 35243                PRECIO: 42bs</string>
+    <string name="f5_5">Falda blanco color floreado con vuelo y pliegue</string>
+
+    <string name="f6">COD: 09056                PRECIO: 110bs</string>
+    <string name="f6_6">Falda con encaje entero color palo rosa</string>
+
+    <string name="f7">COD: 22454                PRECIO: 140bs</string>
+    <string name="f7_7">Falda ancha de color tumbo, se ajusta facil</string>
+
+    <string name="f8">COD: 66556                PRECIO: 125bs</string>
+    <string name="f8_8">Falda doble tela plizado de color plomo</string>
+
+    <string name="f9">COD: 76777                PRECIO: 170bs</string>
+    <string name="f9_9">Es de forma tableada larga de color gris, con cinta</string>
+
+    <string name="f10">COD: 43543                PRECIO: 98bs</string>
+    <string name="f10_10">Minifalda tipo campana color guindo</string>
+
+
+    <string name="p1">COD: 48656                PRECIO: 50bs</string>
+    <string name="p1_1">Pantalon de tela, y muy comodo con pretina, ademas con pliegue</string>
+
+    <string name="p2">COD: 67846                PRECIO: 80bs</string>
+    <string name="p2_2">Es un pantalon licra y ajustable al cuerpo</string>
+
+    <string name="p3">COD: 35456                PRECIO: 65bs</string>
+    <string name="p3_3">Es semi ancho y muy comodo, y viene con liga a la cintura, ademas un amarrador en la cintura</string>
+
+    <string name="p4">COD: 44565                PRECIO: 60bs</string>
+    <string name="p4_4">Pantalon jean, muy ajustado al cuerpo, de color azul de tono bajo</string>
+
+    <string name="p5">COD: 67687                PRECIO: 150bs</string>
+    <string name="p5_5">Pantalon cigarrera con faja jean, con 5 botones, de color azul </string>
+
+    <string name="p6">COD: 09056                PRECIO: 80bs</string>
+    <string name="p6_6">Pantaleta sencilla de color blanco, y de material lisa</string>
+
+    <string name="p7">COD: 54546                PRECIO: 50bs</string>
+    <string name="p7_7">De tela normal, para uso en oficinas </string>
+
+    <string name="p8">COD: 66556                PRECIO: 110bs</string>
+    <string name="p8_8">Pantalon cigarrera y cadera, para todo tipo de eventos </string>
+
+
+    <string name="c1">COD: 28656                PRECIO: 188bs</string>
+    <string name="c1_1">Taco alto de color negro con punta cuadrada</string>
+
+    <string name="c2">COD: 97846                PRECIO: 215bs</string>
+    <string name="c2_2">De punta pezcado, de taco alto color negro</string>
+
+    <string name="c3">COD: 94678                PRECIO: 170bs</string>
+    <string name="c3_3">Taco alto con cruceras de color azul con dorado</string>
+
+    <string name="c4">COD: 14565                PRECIO: 138bs</string>
+    <string name="c4_4">Zandalia planta baja con cruceras</string>
+
+    <string name="c5">COD: 35243                PRECIO: 125bs</string>
+    <string name="c5_5">Taco semialto con cruceras color plateado</string>
+
+    <string name="c6">COD: 09056                PRECIO: 280bs</string>
+    <string name="c6_6">Taco alto con cruceras en la tobillera de color plomo</string>
+
+    <string name="c7">COD: 22454                PRECIO: 45bs</string>
+    <string name="c7_7">Zandalia planta baja color tigresa</string>
+
+
+
+    <string name="bo1">COD: 48656                PRECIO: 85bs</string>
+    <string name="bo1_1">De  cuero, de color plomo con su respectivo monedero</string>
+
+    <string name="bo2">COD: 67846                PRECIO: 75bs</string>
+    <string name="bo2_2">Bolsa naranja color naranja,mediano y de facil manejo</string>
+
+    <string name="bo3">COD: 24678                PRECIO: 85bs</string>
+    <string name="bo3_3">Cartera sobaquera de color api, de tamaño mediano</string>
+
+    <string name="bo4">COD: 44565                PRECIO: 70bs</string>
+    <string name="bo4_4">Bolso de color plomo, con bordes</string>
+
+    <string name="bo5">COD: 35243                PRECIO: 95bs</string>
+    <string name="bo5_5">Viene con su agarrador de color perla, facil manejo</string>
+
+    <string name="bo6">COD: 09056                PRECIO: 75bs</string>
+    <string name="bo6_6">Estes tipos de bolsos viene con alargador y agarrador para manejarla facilmente</string>
+
+    <string name="bo7">COD: 22454                PRECIO: 60bs</string>
+    <string name="bo7_7">Es una bolsa sencilla, de tamaño mediano</string>
+
+    <string name="bo8">COD: 66556                PRECIO: 80bs</string>
+    <string name="bo8_8">Bolsa hecho de cuero</string>
+
+    <string name="bo9">COD: 76777                PRECIO: 55bs</string>
+    <string name="bo9_9">Bolsa de color floreado</string>
+
+    <string name="bo10">COD: 43543                PRECIO: 85bs</string>
+    <string name="bo10_10">Cartera de color blanco, hecho de cuero</string>
+
+    <string name="bo11">COD: 43543                PRECIO: 62bs</string>
+    <string name="bo11_11">Cartera muy elegante, para todo tipo de acontecimiento</string>
+
+
+
+
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.pc.proyecto.CalzadoActivity" android:background="@color/colorPrimary">
+    <ListView
+        android:id="@+id/lvLista"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/fondo1"
+        android:layout_margin="3dp">
+
+    </ListView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:src="@drawable/email"
+            android:scaleType="centerInside"
+            android:padding="5dp"
+            android:id="@+id/ibEnviarEmail"
+            />
+        <ImageButton
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_weight="1"
+            android:textAllCaps="false"
+            android:src="@drawable/llamar"
+            android:scaleType="centerInside"
+            android:padding="10dp"
+            android:id="@+id/ibAbrirMarcado"/>
+    </LinearLayout>
+
+
+
+</RelativeLayout>
